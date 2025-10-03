@@ -8,7 +8,7 @@
 ![macOS](https://img.shields.io/badge/macOS-12.0+-silver)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🎯 Capstone Project
+## 🎯 Project
 
 This project demonstrates advanced **GPU programming** and **parallel computing** using Apple's Metal framework for real-time 2D to 3D conversion. Built as a capstone project showcasing professional-grade GPU acceleration techniques.
 
